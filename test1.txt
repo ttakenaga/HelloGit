@@ -1,1 +1,2 @@
 echo hello git!
+echo Edit test!
